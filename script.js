@@ -1,4 +1,4 @@
-alert("oi");
+alert("essa semana esta muito calor");
 let pessoas = Number (prompt ("Insira a quantidade de pessoas em marte:"));
 const consumoDiario = 15; //litros por pessoa.
 
